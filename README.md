@@ -9,6 +9,19 @@ A SOC-style dashboard built using the **Elastic Stack (Elasticsearch + Kibana)**
 - Protocol-based traffic insights  
 - Exportable Kibana dashboard (`export.ndjson`)
 
+  # Step 1: Run Elasticsearch & Kibana
+sudo service elasticsearch start
+sudo service kibana start
+
+# Step 2: Run the Python script to send data
+python3 log_sender.py
+
+# Step 3: Import dashboard in Kibana
+Management → Saved Objects → Import → upload export.ndjson
+
+# Step 4: Open the dashboard and watch live data!
+
+
 🧩 Tech Stack
 -Elasticsearch — Data indexing and search  
 -Kibana — Visualization and dashboard creation  
