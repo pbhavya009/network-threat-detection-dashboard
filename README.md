@@ -11,6 +11,7 @@ A SOC-style dashboard built using the **Elastic Stack (Elasticsearch + Kibana)**
 
   # Step 1: Run Elasticsearch & Kibana
 sudo service elasticsearch start
+
 sudo service kibana start
 
 # Step 2: Run the Python script to send data
