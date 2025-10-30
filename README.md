@@ -26,7 +26,7 @@ See the screenshots included in this repo to preview the dashboard layout.
 "Author"
 Bhavya Puri
 Cybersecurity Intern | SOC Analyst Trainee  
-[LinkedIn](https://www.linkedin.com/in/bhavya-puri)  
+[LinkedIn](linkedin.com/in/bhavya-puri-31227027a)  
 [GitHub](https://github.com/pbhavya009)
 
 
